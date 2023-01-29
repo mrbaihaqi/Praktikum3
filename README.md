@@ -1,6 +1,6 @@
 ## Latihan 1 ##
 
-Menjalan <b>Python Console</b>
+Menjalankan <b>Python Console</b>
 * Menampilkan tulisan "Hello" dilayar
 * Menampilkan tulisan "Saya sedang belajar python" dilayar
 
